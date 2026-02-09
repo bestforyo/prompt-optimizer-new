@@ -4,9 +4,7 @@
   "private": true,
   "packageManager": "pnpm@10.6.1",
   "engines": {
-    "node": "22.x",
-    "npm": "请使用pnpm代替npm",
-    "yarn": "请使用pnpm代替yarn"
+    "node": "22.x"
   },
   "scripts": {
     "build": "npm-run-all build:core build:ui build:parallel",
