@@ -28,5 +28,6 @@
     "env": {
       "VITE_VERCEL_DEPLOYMENT": "true"
     }
-  }
+  },
+  "runtime": "nodejs22.x"
 } 
